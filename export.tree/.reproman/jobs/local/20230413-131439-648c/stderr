@@ -1,7 +1,0 @@
-Warning: Permanently added 'c122-024' (ECDSA) to the list of known hosts.
-WARNING (04/18/23 22:15:24): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.5397393.hostlist.IyrzlSFQ to get hosts
-starting job on c122-024
-starting job on c122-114
-starting job on c122-141
-starting job on c122-163
